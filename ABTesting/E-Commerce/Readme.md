@@ -14,12 +14,17 @@ Should the company adopt the new webpage design based on improved user conversio
 
 The dataset contains user-level information including:
 
-Column Name	Description
-user_id		Unique identifier for each user
-timestamp	Time of visit
-group		Indicates if user is in control or treatment group
-landing_page	Version of the landing page (old or new)
-converted	Binary indicator (1 = user converted, 0 = not converted)
+Column Name 	Description
+
+user_id	      Unique identifier for each user
+
+timestamp	    Time of visit
+
+group        	Indicates if user is in control or treatment group
+
+landing_page 	Version of the landing page (old or new)
+
+converted	    Binary indicator (1 = user converted, 0 = not converted)
 
 🛠 Tools & Technologies Used
 
